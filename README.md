@@ -13,5 +13,5 @@ const { upperCase } = require('uppercase-lib');
 console.log(upperCase('hola'));
 ```
 
-#### checkout tutorial here
+#### check out a tutorial here
 [How to create a Javascript library using Typescript](https://codersgyan.com/how-to-create-a-javascript-library-using-typescript/)
